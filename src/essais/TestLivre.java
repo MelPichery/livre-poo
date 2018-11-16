@@ -52,7 +52,7 @@ public class TestLivre {
 			
 		}
 		
-		System.out.println("Le nombre de livre est : "+nombreLivre);
+		System.out.println("Le nombre de livres est : "+Livre.compteur);
 
 	}
 	
