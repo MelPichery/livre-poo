@@ -51,6 +51,8 @@ public class TestLivre {
 			System.out.println(livres[i].ToString());
 			
 		}
+		
+		System.out.println("Le nombre de livre est : "+nombreLivre);
 
 	}
 	
